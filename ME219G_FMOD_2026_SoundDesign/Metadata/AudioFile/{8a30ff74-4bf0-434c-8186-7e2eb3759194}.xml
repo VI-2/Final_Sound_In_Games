@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{8a30ff74-4bf0-434c-8186-7e2eb3759194}">
+		<property name="assetPath">
+			<value>Sounds_for_final/MashmashuStudio_Human Vocals Vol1/Human Vocals Vol1/Women/Lauren/WAV/Soldier_Lauren_Attacking_4.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.39480725623582769</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{87141b2c-14ae-4bd0-b17b-6338c22d2609}</destination>
+		</relationship>
+	</object>
+</objects>

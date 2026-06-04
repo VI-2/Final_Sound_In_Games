@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{4cc83467-7407-43b0-9502-3fb28138d928}">
+		<property name="assetPath">
+			<value>Sounds_for_final/MashmashuStudio_Human Vocals Vol1/Human Vocals Vol1/Women/Lauren/WAV/Soldier_Lauren_Laughter_4.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>1.6196598639455781</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{87141b2c-14ae-4bd0-b17b-6338c22d2609}</destination>
+		</relationship>
+	</object>
+</objects>

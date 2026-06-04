@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="EncodableAsset" id="{8ac55b3b-4d25-4df8-98f2-71df7f587841}">
+		<property name="assetPath">
+			<value>Sounds_for_final/MashmashuStudio_Human Vocals Vol1/Human Vocals Vol1/Women/Lauren/</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{87141b2c-14ae-4bd0-b17b-6338c22d2609}</destination>
+		</relationship>
+	</object>
+</objects>
