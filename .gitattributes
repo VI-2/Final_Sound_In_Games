@@ -1,2 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+NatureLoop_02.wav filter=lfs diff=lfs merge=lfs -text
+AcidPoolLoop_01.wav filter=lfs diff=lfs merge=lfs -text
